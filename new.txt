@@ -1,7 +1,4 @@
 hi
 
-<<<<<<< HEAD
 local changed
-=======
-remote changed
->>>>>>> 6990abe5d1d9ff0fb2e8b1bc9d0779f164b27850
+
